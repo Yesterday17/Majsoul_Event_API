@@ -1,0 +1,9 @@
+{
+  "id": "Majsoul_Event_API_launcher",
+  "version": "1.0.0",
+  "name": "雀魂附加事件",
+  "author": "某昨P",
+  "description": "通用扩展前置。",
+  "loadBeforeGame": false,
+  "entry": ["lib/EventEmitter.js", "src/manager.js", "src/launch.js"]
+}
