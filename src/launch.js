@@ -1,1 +1,1 @@
-context.GameMgrInst = new context.GameMgr()
+context.GameMgrInst = new context.GameMgr();

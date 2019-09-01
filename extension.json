@@ -5,5 +5,10 @@
   "author": "某昨P",
   "description": "通用扩展前置。",
   "loadBeforeGame": false,
-  "entry": ["lib/EventEmitter.js", "src/manager.js", "src/launch.js"]
+  "entry": [
+    "lib/EventEmitter.js",
+    "src/uiscript/config.js",
+    "src/manager.js",
+    "src/launch.js"
+  ]
 }
